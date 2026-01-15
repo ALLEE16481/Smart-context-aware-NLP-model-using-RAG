@@ -27,7 +27,7 @@ LLM Inference: Groq API (Llama 3.1 8B)
 Installation
 Clone the repo
 
-git clone https://github.com/yourusername/cortex-rag.git
+git clone https://github.com/ALLEE16481/Smart-context-aware-NLP-model-using-RAG
 cd Smart-context-aware-NLP-model-using-RAG
 Install dependencies
 
