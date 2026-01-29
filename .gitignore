@@ -1,0 +1,18 @@
+# Python junk
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (Huge folder, do not upload)
+venv/
+.venv/
+env/
+
+# Database (Your personal history - PRIVATE!)
+*.db
+data/
+
+# Environment variables (Secrets)
+.env
+
+# OS junk
+.DS_Store
